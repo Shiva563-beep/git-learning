@@ -14,3 +14,8 @@ resource "azurerm_key_vault_secret" "shiva-key-vault-secret" {
 # }
 
 # wfkjciubcwuvdbvcm;ls
+# farji me add karna h bhai
+# ok
+# ok
+# dsyugiu
+# dioegetyvwkl,dx
