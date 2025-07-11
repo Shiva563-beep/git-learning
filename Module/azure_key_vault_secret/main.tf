@@ -3,3 +3,12 @@ resource "azurerm_key_vault_secret" "shiva-key-vault-secret" {
   value        = var.key_vault_secret_value
   key_vault_id = var.key_vault_id
 }
+# dnfs  nklfn klndf lnfkjn
+# cdnkbcwhnklwmk;dvsmcheck "cdkjwgywgteephemeral "ewbgcyugdcwghwc
+# cbhgyucwgdihcn
+# cdhihwiuchiuwch
+# " "name" {
+  
+# }" {
+  
+# }
