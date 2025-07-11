@@ -12,3 +12,5 @@ resource "azurerm_key_vault_secret" "shiva-key-vault-secret" {
 # }" {
   
 # }
+
+# wfkjciubcwuvdbvcm;ls
