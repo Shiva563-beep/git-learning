@@ -1,3 +1,4 @@
+#line 2-6 is a code for resource group in Japan East.121
 module "azurerm_resource_group" {
   source              = "../Module/azurerm_resource_group"
   resource_group_name = "shiva-rg1"
