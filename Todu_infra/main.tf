@@ -4,6 +4,7 @@ module "azurerm_resource_group" {
   resource_group_name = "shiva-rg1"
   location            = "Japan East"
 }
+# as per requrinment line 8-12 resource group shiva-rg2 added
 module "azurerm_resource_group1" {
   source              = "../Module/azurerm_resource_group"
   resource_group_name = "shiva-rg2"
