@@ -35,6 +35,11 @@ module "azurerm_resource_group7" {
   resource_group_name = "shiva-rg8"
   location            = "Japan East"
 }
+module "azurerm_resource_group6" {
+  source              = "../Module/azurerm_resource_group"
+  resource_group_name = "shiva-rg7"
+  location            = "Japan East"
+}
 module "virtual_network" {
   depends_on           = [module.azurerm_resource_group]
   source               = "../Module/azurerm_virtual_network"
