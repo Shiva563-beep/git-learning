@@ -30,6 +30,11 @@ module "azurerm_resource_group5" {
   resource_group_name = "shiva-rg6"
   location            = "Japan East"
 }
+module "azurerm_resource_group7" {
+  source              = "../Module/azurerm_resource_group"
+  resource_group_name = "shiva-rg8"
+  location            = "Japan East"
+}
 module "azurerm_resource_group6" {
   source              = "../Module/azurerm_resource_group"
   resource_group_name = "shiva-rg7"
